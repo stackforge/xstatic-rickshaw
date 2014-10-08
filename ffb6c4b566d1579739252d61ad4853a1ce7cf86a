@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Akihiro Motoki <motoki@da.jp.nec.com>
+Workflow+1: Akihiro Motoki <motoki@da.jp.nec.com>
+Code-Review+2: Julie Pichon <jpichon@redhat.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 08 Oct 2014 05:35:03 +0000
+Reviewed-on: https://review.openstack.org/113269
+Project: stackforge/xstatic-rickshaw
+Branch: refs/heads/master
